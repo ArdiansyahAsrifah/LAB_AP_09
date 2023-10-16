@@ -55,4 +55,3 @@ while True:
         break
     else:
         print('Silahkan pilih dari angka 1-5')
-        
